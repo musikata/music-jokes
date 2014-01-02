@@ -1,4 +1,1 @@
-music-jokes
-===========
-
-Music Jokes
+See: http://github.com/musikata/music-jokes/wiki/Music-Jokes-Wiki-Home
